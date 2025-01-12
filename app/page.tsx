@@ -1,4 +1,5 @@
 import { Header } from "@/app/components/header";
+// import { Button } from "@/components/ui/button";
 import { Search, BookOpen, Code, Palette } from "lucide-react";
 import Link from "next/link";
 
@@ -7,6 +8,7 @@ export default function Home() {
     <div className="min-h-screen bg-gray-50">
       <Header />
       <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        {/* <Button /> */}
         <section className="text-center mb-16">
           <h1 className="text-4xl font-bold text-gray-900 mb-4">
             Discover Your Learning Journey
