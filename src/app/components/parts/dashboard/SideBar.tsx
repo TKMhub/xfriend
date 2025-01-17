@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import { sideBarLinks } from "@/app/src/config/links";
+import { sideBarLinks } from "@/app/config/links";
 
 const SideBar = () => {
   return (

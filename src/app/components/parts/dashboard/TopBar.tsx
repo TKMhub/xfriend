@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import { topBarLinks } from "@/app/src/config/links";
+import { topBarLinks } from "@/app/config/links";
 
 const TopBar = () => {
   return (
