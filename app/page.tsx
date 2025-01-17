@@ -1,4 +1,4 @@
-import { Header } from "@/app/components/header";
+import { Header } from "@/app/components/parts/header";
 // import { Button } from "@/components/ui/button";
 import { Search, BookOpen, Code, Palette } from "lucide-react";
 import Link from "next/link";
